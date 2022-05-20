@@ -3,7 +3,7 @@ Lyrics data of Taylor SwiftTaylor Swift的歌词数据
 # 数据内容
 artist:Taylor Swift  
 year:2006-2008-2010-2012-2014-2017-2019-2020  
-album:  
+album:[Taylor Swift]-[Fearless]-[Speak Now]-[Red]-[1989]-[reputation]-[Lover]-[Folklore]-[evermore]  
 track_n:  
 track_title:  
 line:  
