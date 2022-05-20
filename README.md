@@ -1,8 +1,8 @@
 # Taylor-Swift
 
-Lyrics data of Taylor SwiftTaylor Swift的歌词数据
+Lyrics data of Taylor Swift
 
-# 数据内容
+# content
 
 artist:Taylor Swift  
 
