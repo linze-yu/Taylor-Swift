@@ -6,9 +6,9 @@ Lyrics data of Taylor Swift
 
 artist:Taylor Swift  
 
-year:2006-2008-2010-2012-2014-2017-2019-2020  
+year:2006-2008-2010-2012-2014-2017-2019-2020-2007-2008-2008-2011
 
-album:[Taylor Swift]-[Fearless]-[Speak Now]-[Red]-[1989]-[reputation]-[Lover]-[Folklore]-[evermore]  
+album:[Taylor Swift]-[Fearless]-[Speak Now]-[Red]-[1989]-[reputation]-[Lover]-[Folklore]-[evermore]-[Sounds of the Season-The Taylor Swift Holiday Collection]-[Live from SoHo(iTunes Exclusive EP)]-[Beautiful Eyes]-[Speak Now World Tour Live]
 
 track_n:The position sequence number of the song in the album  
 
