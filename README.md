@@ -2,7 +2,7 @@
 
 Lyrics data of Taylor Swift
 
-# [data](https://www.kaggle.com/datasets/linzey/taylor-swift)
+# [kaggle](https://www.kaggle.com/datasets/linzey/taylor-swift)
 
 # content
 
